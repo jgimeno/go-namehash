@@ -6,7 +6,7 @@ Is very easy to use, import the library and use it like:
 
 Import the library with dep:
 
-```dep ensure -add "github.com/jgimeno/go-namehas"```
+```dep ensure -add "github.com/jgimeno/go-namehash"```
 
 And use it like:
 
